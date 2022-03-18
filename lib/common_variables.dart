@@ -1,0 +1,4 @@
+
+enum AppFlavorsEnum{
+  dev, live
+}
